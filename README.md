@@ -7,7 +7,6 @@ Este repositório tem por objetivo disponibilizar os códigos fontes desenvolvid
     * Paradigma de Orientação a Objetos
     * Classes
     * Objetos
-    * Bora programar!
     * Codificando a Classe Produto
     * Instanciando um objeto
  * Aula 2 - Métodos
@@ -15,3 +14,7 @@ Este repositório tem por objetivo disponibilizar os códigos fontes desenvolvid
     * Método vs. Função
     * Método construtor
     * Método imprimir produto
+ * Aula 3 - Herança
+    * Especialização e Generalização
+    * Método base
+    * Sobrescrita de métodos
