@@ -18,3 +18,7 @@ Este repositório tem por objetivo disponibilizar os códigos fontes desenvolvid
     * Especialização e Generalização
     * Método base
     * Sobrescrita de métodos
+ * Aula 4 - Classes abstratas e polimorfismo
+    * Classes abstratas
+    * Polimorfismo
+    * Métodos abstratos
