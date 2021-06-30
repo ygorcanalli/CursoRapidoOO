@@ -24,3 +24,7 @@ Este repositório tem por objetivo disponibilizar os códigos fontes desenvolvid
     * Métodos abstratos
  * Aula 5 - Interfaces
     * Interfaces
+ * Aula 6 - Encapsulamento
+    * Encapsulamento
+    * Public, Private e Protected
+    * Métodos Get e Set
